@@ -1,16 +1,13 @@
 ---
-title: A post with a cover image
-date: 2019-01-07T00:00:00.000Z
+title: "Création et location de site web "
+date: 2022-08-25T00:00:00.000Z
 published: true
 tags:
-  - Markdown
   - Cover Image
+  - Markdown
 cover_image: ../../static/images/uploads/alexandr-podvalny-220262-unsplash.jpg
-description: >-
-  Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
-  Readability, however, is emphasized above all else. A Markdown-formatted
-  document should be publishable as-is, as plain text, without looking like it's
-  been marked up with tags or formatting instructions.
+description: " création site web dont l’expertise vous permettra de concrétiser
+  votre projet……"
 ---
 
 Readability, however, is emphasized above all else. A Markdown-formatted
