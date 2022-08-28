@@ -5,7 +5,7 @@ published: true
 tags:
   - Cover Image
   - Markdown
-cover_image: ../../static/images/uploads/64383d56-6087-4dac-9507-3fe747f356d7.gif
+cover_image: ../../static/images/uploads/4a27fecc-5c88-49fd-9353-cb856f0b1a78.webp
 description: " création site web dont l’expertise vous permettra de concrétiser
   votre projet……"
 ---
