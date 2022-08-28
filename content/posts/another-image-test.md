@@ -4,9 +4,9 @@ date: 2019-10-20T09:37:26.163Z
 published: true
 tags:
   - markdown
-  - image
   - test
-cover_image: ../../static/images/uploads/0fd4d2db-4169-4c54-8877-969fd49e36f0.webp
+  - image
+cover_image: ../../static/images/uploads/a8cdeba5-a5f9-40f0-8b68-5492fe286dce.gif
 description: I am trying some image uploads.
 ---
 And I also write something down.
