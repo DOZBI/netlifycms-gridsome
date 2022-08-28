@@ -6,7 +6,7 @@ tags:
   - markdown
   - image
   - test
-cover_image: ../../static/images/uploads/da83f867-a29b-4616-837c-c90c3a30c079.gif
+cover_image: ../../static/images/uploads/0fd4d2db-4169-4c54-8877-969fd49e36f0.webp
 description: I am trying some image uploads.
 ---
 And I also write something down.
